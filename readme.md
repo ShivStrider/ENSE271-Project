@@ -1,4 +1,4 @@
-# Group F Project
+# The Brandtastic Four
 
 ## Members
 * Yuval Glozman
