@@ -14,5 +14,4 @@
 * NorthStar (target) customer: Government Workers/Officials "Change makers"
 * Carryover customers: NGOs, Those looking to join NGO's, Researchers, General Public interested in issues, possible new comers to Regina.
 
-## Checkout our website: 
-https://group-f.softsys.ca
+### Visit our Regina SDG website (https://group-f.softsys.ca/) for more information and updates.
